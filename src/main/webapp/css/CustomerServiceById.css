@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+.bg-color
+{
+	background-color: infobackground;
+	height: 100vh;
+	text-align: center;
+}
+.button
+{
+	background-color: buttonface;
+	border-radius: 10px;
+	border-color: white;
+	border-width: 0px;
+	color: navy;
+}
+
+input
+{
+	 border-radius: 5px;
+	 border-color: white;
+	 text-align: center;
+	 height: 40px;
+}
